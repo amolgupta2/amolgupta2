@@ -17,8 +17,6 @@ I am committed to developing hands-on skills that go beyond theory. My goal is t
 | INSERT SKILL |INSERT Lab
 
 ## Tools
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -41,7 +39,6 @@ I am committed to developing hands-on skills that go beyond theory. My goal is t
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
