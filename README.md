@@ -9,7 +9,7 @@ I am committed to developing hands-on skills that go beyond theory. My goal is t
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory |INSERT Lab|
+| Active Directory |<a href="https://github.com/amolgupta2/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
 | INSERT SKILL |INSERT Lab|
 | INSERT SKILL |INSERT Lab|
 | INSERT SKILL |INSERT Lab|
@@ -44,7 +44,7 @@ I am committed to developing hands-on skills that go beyond theory. My goal is t
 </div>
 
 ## Projects
-- Soon...
+- <a href="https://github.com/amolgupta2/Active-Directory-Lab/tree/main">Active Directory Lab</a>
 <!--
 **amolgupta2/amolgupta2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
