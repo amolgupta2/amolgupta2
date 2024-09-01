@@ -9,7 +9,7 @@ I am committed to developing hands-on skills that go beyond theory. My goal is t
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| INSERT SKILL |INSERT Lab|
+| Active Directory |INSERT Lab|
 | INSERT SKILL |INSERT Lab|
 | INSERT SKILL |INSERT Lab|
 | INSERT SKILL |INSERT Lab|
